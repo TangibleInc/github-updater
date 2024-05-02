@@ -4,7 +4,7 @@ Update Tangible plugins from Git tags published to GitHub, including beta versio
 
 ## Install
 
-Download and install the GitHub Updater module as a plugin.
+[Download](https://github.com/TangibleInc/github-updater/archive/refs/heads/main.zip) and install the GitHub Updater module as a plugin.
 
 ## Usage
 
